@@ -1,4 +1,6 @@
-<h1>Na'shaya ou Bem Vindo ao Meu Perfil 🖖</h1>
+<h1>Na'shaya ou Bem Vindo ao Meu Perfil 🖖🏻</h1>
+
+Referências de Star Trek a parte, eu sou Leandro.
 
 <div style="display: inline_block"><br>
  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=LeandroMarangoni&show_icons=true&theme=dracula">
@@ -35,5 +37,8 @@
 ![snake gif](https://github.com/LeandroMarangoni/LeandroMarangoni/blob/main/github-contribution-grid-snake.svg)
 
 <h2>Contatos </h2>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_marangoni/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-marangoni/)
+
+<h3><em> "Que a força esteja com você"</em> <img align="center" height="40" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514815/8299/babyyoda1.png?1643514815"/></h3>
