@@ -1,7 +1,9 @@
-Na'shaya ou Bem Vindo ao Meu Perfil 🖖  
+<h1>Na'shaya ou Bem Vindo ao Meu Perfil 🖖</h1>
 
- ![LeandroMarangoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroMarangoni&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMarangoni&theme=dracula)](https://github.com/LeandroMarangoni/github-readme-stats)
+<div style="display: inline_block"><br>
+ <img width="40%" src="https://github-readme-stats.vercel.app/api?username=LeandroMarangoni&show_icons=true&theme=dracula">
+ <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMarangoni&theme=dracula">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -32,5 +34,6 @@ Na'shaya ou Bem Vindo ao Meu Perfil 🖖
 
 ![snake gif](https://github.com/LeandroMarangoni/LeandroMarangoni/blob/main/github-contribution-grid-snake.svg)
 
+<h2>Contatos </h2>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_marangoni/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-marangoni/)
