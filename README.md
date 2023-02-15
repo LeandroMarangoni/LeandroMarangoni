@@ -1,4 +1,5 @@
 Na'shaya ou Bem Vindo ao Meu Perfil 🖖  
+
  ![LeandroMarangoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroMarangoni&show_icons=true&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMarangoni&theme=dracula)](https://github.com/LeandroMarangoni/github-readme-stats)
 
@@ -29,7 +30,7 @@ Na'shaya ou Bem Vindo ao Meu Perfil 🖖
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 </div><br/>
 
-![snake gif](https://github.com/LeandroMarangoni/LeandroMarangoni/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LeandroMarangoni/LeandroMarangoni/blob/main/github-contribution-grid-snake.svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_marangoni/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-marangoni/)
