@@ -53,7 +53,5 @@
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro_marangoni/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-marangoni/)
-
- <img align="center" height="30" width="40" src="https://media3.giphy.com/media/QqkRs73FlKO52/giphy.gif?cid=ecf05e47ri4pc1qde88scf6z395y46gz2lqu980ja6pjpzml&rid=giphy.gif&ct=g"/>
  
 <p><em> "Que a força esteja com você"</em> <img align="center" height="40" width="40" src="https://emojis.slackmojis.com/emojis/images/1643514815/8299/babyyoda1.png?1643514815"/></p>
